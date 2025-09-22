@@ -57,6 +57,26 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        /* Custom bakery colors */
+        "bakery-gold": "hsl(var(--bakery-gold))",
+        "bakery-rose": "hsl(var(--bakery-rose))",
+        "bakery-chocolate": "hsl(var(--bakery-chocolate))",
+        "bakery-cream": "hsl(var(--bakery-cream))",
+        "bakery-warm-brown": "hsl(var(--bakery-warm-brown))",
+      },
+      fontFamily: {
+        'display': ['Playfair Display', 'serif'],
+        'body': ['Inter', 'sans-serif'],
+      },
+      backgroundImage: {
+        'gradient-hero': 'var(--gradient-hero)',
+        'gradient-warm': 'var(--gradient-warm)',
+        'gradient-gold': 'var(--gradient-gold)',
+      },
+      boxShadow: {
+        'warm': 'var(--shadow-warm)',
+        'golden': 'var(--shadow-golden)',
+        'elevated': 'var(--shadow-elevated)',
       },
       borderRadius: {
         lg: "var(--radius)",
