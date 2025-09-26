@@ -98,7 +98,7 @@ const ContactSection = () => {
             </Card>
 
             {/* Map Placeholder */}
-            <Card className="border-0 shadow-warm overflow-hidden">
+            {/* <Card className="border-0 shadow-warm overflow-hidden">
               <div className="h-64 bg-muted flex items-center justify-center">
                 <div className="text-center">
                   <div className="w-16 h-16 bg-bakery-gold rounded-full flex items-center justify-center mx-auto mb-4">
@@ -112,7 +112,7 @@ const ContactSection = () => {
                   </p>
                 </div>
               </div>
-            </Card>
+            </Card> */}
           </div>
 
           {/* Contact Form */}

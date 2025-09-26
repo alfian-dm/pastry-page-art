@@ -8,30 +8,30 @@ const MenuSection = () => {
       category: "Fresh Pastries",
       image: pastriesImage,
       items: [
-        { name: "Butter Croissant", price: "$3.50" },
-        { name: "Pain au Chocolat", price: "$4.25" },
-        { name: "Almond Danish", price: "$4.75" },
-        { name: "Fruit Tart", price: "$5.50" },
+        { name: "Butter Croissant", price: "RM3.50" },
+        { name: "Pain au Chocolat", price: "RM4.25" },
+        { name: "Almond Danish", price: "RM4.75" },
+        { name: "Fruit Tart", price: "RM5.50" },
       ]
     },
     {
       category: "Artisan Breads",
       image: breadImage,
       items: [
-        { name: "Sourdough Loaf", price: "$6.00" },
-        { name: "Baguette", price: "$3.25" },
-        { name: "Whole Wheat", price: "$5.75" },
-        { name: "Multigrain", price: "$6.50" },
+        { name: "Sourdough Loaf", price: "RM6.00" },
+        { name: "Baguette", price: "RM3.25" },
+        { name: "Whole Wheat", price: "RM5.75" },
+        { name: "Multigrain", price: "RM6.50" },
       ]
     },
     {
       category: "Custom Cakes",
       image: cakesImage,
       items: [
-        { name: "Wedding Cake", price: "From $150" },
-        { name: "Birthday Cake", price: "From $45" },
-        { name: "Cupcakes (dozen)", price: "$36" },
-        { name: "Cheesecake", price: "$28" },
+        { name: "Wedding Cake", price: "From RM150" },
+        { name: "Birthday Cake", price: "From RM45" },
+        { name: "Cupcakes (dozen)", price: "RM36" },
+        { name: "Cheesecake", price: "RM28" },
       ]
     }
   ];
